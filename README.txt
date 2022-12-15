@@ -1,1 +1,1 @@
-This is Shimoda Yoshiro Resume Site
+This is Shimoda Yoshiro Portfolio Site
